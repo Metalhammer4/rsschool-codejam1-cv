@@ -33,6 +33,25 @@ body {
   padding-left: 10px; 
 }
 
+.figcapt {
+  display: block; 
+  text-align: center; 
+  font-style: italic; 
+  margin-top: 0; 
+  margin-bottom: 5px; 
+  color: #666666; 
+}
+ 
+.img-responsive {
+  display: block;
+  max-width: 15%; 
+  height: auto;
+  margin: auto;
+  background: #ffffff; 
+  padding: 5px;  
+  border: 1px solid #dddddd; 
+}
+
 .clearfix:after {
   content: ".";
   display: block;
