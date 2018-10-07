@@ -84,9 +84,20 @@ body {
   background: #e0ffff;
 }
 
+.footer-columns {
+  float: left; 
+  width: 100%;
+}
+
+.footer-col {
+  float: left; 
+  width: 25%;
+}
+
 .fixblock {
   width: 25%; 
   position: fixed;
   right: 0px;
   top: 0px;
 }
+
